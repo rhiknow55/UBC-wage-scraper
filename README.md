@@ -9,3 +9,4 @@ This is written with python3.8
 run via:
 > python3 cleaner.py
 
+![version 1.0 result](version1.0result.png)
