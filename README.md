@@ -1,5 +1,5 @@
 # UBC-wage-scraper
-Scrapes the remunerations of UBC employees from the pdf accessible https://finance.ubc.ca/budgeting-reporting/financial-reports
+Scrapes the remunerations of UBC employees from the pdf publicly accessible on the UBC finance website. https://finance.ubc.ca/budgeting-reporting/financial-reports
 
 **version 1.0**
 - Scrapes data from a predefined path, and has no detection of what pages contain useful information (wages for employees)
